@@ -19,3 +19,6 @@ else:
 
 #Output
 print ("El resultado es: " + mensaje )
+
+#Caso del sistema de control de Mario 
+
